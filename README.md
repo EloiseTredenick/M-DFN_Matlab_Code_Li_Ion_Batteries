@@ -1,9 +1,9 @@
 # M-DFN_Matlab_Code_Li_Ion_Batteries
 Matlab Code to simulate the M-DFN Model for the bilayer cathode including NMC and LFP.
 
-Reference: E. C. Tredenick, S. Wheeler, R. Drummond et al. A multilayer Doyle-Fuller-Newman model to optimise the rate performance of bilayer cathodes in Li ion batteries, 14 May 2024, PREPRINT (Version 5) available at Research Square [https://doi.org/10.21203/rs.3.rs-3906430/v5]
-
-https://www.researchsquare.com/article/rs-3906430/v5
+Reference: E. C. Tredenick, S. Wheeler, R. Drummond et al. A multilayer Doyle-Fuller-Newman model to optimise the rate performance of bilayer cathodes in Li ion batteries, Journal of The Electrochemical Society, Volume 171, Number 6
+Citation E. C. Tredenick et al 2024 J. Electrochem. Soc. 171 060531
+DOI 10.1149/1945-7111/ad5767
 
 
 # Code for NMC and LFP DFN Models
